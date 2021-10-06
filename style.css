@@ -1,0 +1,34 @@
+body {
+  background-color:darkseagreen
+}
+
+h1 {
+  color:darkblue;
+  font-family:courier;
+  background-color:antiquewhite;
+  border: 5px solid grey;
+}
+
+h2 {
+  color:midnightblue;
+  font-family:helvetica;
+}
+
+img {
+  border: 5px solid grey;
+  width:25%;
+  height:25%;
+  margin:35px;
+  padding: 35px;
+}
+
+#highlight {
+  color:darkblue;
+  background-color:aliceblue;
+  border: 3px solid grey;
+}
+
+.top {
+  background-color:grey;
+  float:left;
+}
